@@ -1,0 +1,10 @@
+{
+  "name": "SSPCommandLineC"
+, "files": [ { "svn": 1 } ]
+, "build": {
+    "directory": "build"
+  , "build": "make all"
+  , "clean": "make clean"
+  , "install": "make install"
+  }
+} 
